@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "3AEB695B-8C9C-4C01-B73A-4E4C2E8BD1FD": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "FlowerClassifier.mlmodel",
+            "path": "com.apple.CoreML/FlowerClassifier.mlmodel"
+        },
+        "D5425D79-172F-4CE4-B4EC-5D8C570349C5": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "E54F11CB-2C23-4267-B04E-2C18E0772752": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "3AEB695B-8C9C-4C01-B73A-4E4C2E8BD1FD"
+}
